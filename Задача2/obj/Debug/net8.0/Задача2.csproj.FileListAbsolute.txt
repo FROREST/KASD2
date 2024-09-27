@@ -1,0 +1,14 @@
+/Users/liga/Desktop/Задача2/Задача2/bin/Debug/net8.0/Задача2
+/Users/liga/Desktop/Задача2/Задача2/bin/Debug/net8.0/Задача2.deps.json
+/Users/liga/Desktop/Задача2/Задача2/bin/Debug/net8.0/Задача2.runtimeconfig.json
+/Users/liga/Desktop/Задача2/Задача2/bin/Debug/net8.0/Задача2.dll
+/Users/liga/Desktop/Задача2/Задача2/bin/Debug/net8.0/Задача2.pdb
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.AssemblyInfoInputs.cache
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.AssemblyInfo.cs
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.csproj.CoreCompileInputs.cache
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.dll
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/refint/Задача2.dll
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.pdb
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/Задача2.genruntimeconfig.cache
+/Users/liga/Desktop/Задача2/Задача2/obj/Debug/net8.0/ref/Задача2.dll
